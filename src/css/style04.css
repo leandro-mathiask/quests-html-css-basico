@@ -1,0 +1,18 @@
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+.cabecalho-rosa{
+    background-color: #BB86FC
+    ;
+}
+
+.cabecalho-azul{
+    background-color: #00C4B4
+    ;
+}
+
+td{
+    background-color: #424250;
+    
+}
